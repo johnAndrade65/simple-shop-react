@@ -1,23 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .Products{
+    width: 100vw;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     padding-top: 8%;
+    background-color: #2c2c2c;
 }
 .container-text{
     height: 65px;
-    width: 98vw;
+    width: 100vw;
+    box-sizing: border-box;
 }
 .text{
-    margin-top: 25px;
+    padding-top: 25px;
     text-align: center;
     font-size: 60px;
 }
 .container{
     width: 95vw;
     height: auto;
-    background-color: #242424;
+    background-color: #2c2c2c;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -35,14 +42,19 @@
     min-height: 350px;
     max-height: 350px;
     margin: 15px;
+    cursor: pointer;
+    border-radius: 4%;
 }
-.item p{
-    margin-bottom: 15px;
+.t{
     font-weight: 600;
-    font-size: 25px;
+    font-size: 35px;
 }
 .img{
-    width: 265px;
-    height: 265px;
-    background-color: #fff;
+    width: auto;
+    height: 230px;
+    border-radius: 5%;
+}
+.description{
+    font-size: 15px;
+    padding-bottom: 15px;
 }
