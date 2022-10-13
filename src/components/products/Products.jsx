@@ -11,47 +11,47 @@ export default function Products() {
             <div className="item">
                 <img className='img' src=".././public/product.png" alt="iphone 14" />
                 <p className='t'>Product Example</p>
-                <p className='description'>This product is a..</p>
+                <p className='description'>The Apple iPhone 14 is an advanced and comprehensive iOS smartphone from...</p>
             </div>
             <div className="item">
                 <img className='img' src=".././public/product.png" alt="iphone 14" />
                 <p className='t'>Product Example</p>
-                <p className='description'>This product is a..</p>
+                <p className='description'>The Apple iPhone 14 is an advanced and comprehensive iOS smartphone from...</p>
             </div>
             <div className="item">
                 <img className='img' src=".././public/product.png" alt="iphone 14" />
                 <p className='t'>Product Example</p>
-                <p className='description'>This product is a..</p>
+                <p className='description'>The Apple iPhone 14 is an advanced and comprehensive iOS smartphone from...</p>
             </div>
             <div className="item">
                 <img className='img' src=".././public/product.png" alt="iphone 14" />
                 <p className='t'>Product Example</p>
-                <p className='description'>This product is a..</p>
+                <p className='description'>The Apple iPhone 14 is an advanced and comprehensive iOS smartphone from...</p>
             </div>
             <div className="item">
                 <img className='img' src=".././public/product.png" alt="iphone 14" />
                 <p className='t'>Product Example</p>
-                <p className='description'>This product is a..</p>
+                <p className='description'>The Apple iPhone 14 is an advanced and comprehensive iOS smartphone from...</p>
             </div>
             <div className="item">
                 <img className='img' src=".././public/product.png" alt="iphone 14" />
                 <p className='t'>Product Example</p>
-                <p className='description'>This product is a..</p>
+                <p className='description'>The Apple iPhone 14 is an advanced and comprehensive iOS smartphone from...</p>
             </div>
             <div className="item">
                 <img className='img' src=".././public/product.png" alt="iphone 14" />
                 <p className='t'>Product Example</p>
-                <p className='description'>This product is a..</p>
+                <p className='description'>The Apple iPhone 14 is an advanced and comprehensive iOS smartphone from...</p>
             </div>
             <div className="item">
                 <img className='img' src=".././public/product.png" alt="iphone 14" />
                 <p className='t'>Product Example</p>
-                <p className='description'>This product is a..</p>
+                <p className='description'>The Apple iPhone 14 is an advanced and comprehensive iOS smartphone from...</p>
             </div>
             <div className="item">
                 <img className='img' src=".././public/product.png" alt="iphone 14" />
                 <p className='t'>Product Example</p>
-                <p className='description'>This product is a..</p>
+                <p className='description'>The Apple iPhone 14 is an advanced and comprehensive iOS smartphone from...</p>
             </div>
         </div>
     </div>

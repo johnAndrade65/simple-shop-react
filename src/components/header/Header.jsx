@@ -8,7 +8,7 @@ export default function Header() {
           <h1>FutureShop</h1>
         </div>
         <div className='menu'>
-          <a>Products</a>
+          <a href="Products">Products</a>
           <a>Contact</a>
         </div>
     </div>

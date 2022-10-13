@@ -39,6 +39,7 @@
     justify-content:space-around;
     flex-direction: column;
     min-width: 350px;
+    max-width: 350px;
     min-height: 350px;
     max-height: 350px;
     margin: 15px;
@@ -57,4 +58,5 @@
 .description{
     font-size: 15px;
     padding-bottom: 15px;
+    text-align: center;
 }

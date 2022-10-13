@@ -17,6 +17,8 @@
     margin: 5px;
 }
 .menu a{
+    color: #fff;
     margin-right: 30px;
     cursor: pointer;
+    text-decoration: none;
 }
