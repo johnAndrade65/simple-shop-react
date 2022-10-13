@@ -1,0 +1,22 @@
+.header{
+    width: 100vw;
+    height: 100px;
+    background-color: rgb(19, 19, 19);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+}
+.logo{
+    margin: 12px;
+}
+.logo h1{
+    font-size: 65px
+}
+.menu{
+    margin: 5px;
+}
+.menu a{
+    margin: 12px;
+    cursor: pointer;
+}
