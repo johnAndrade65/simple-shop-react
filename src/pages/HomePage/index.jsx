@@ -1,14 +1,14 @@
 import React from 'react'
 
 import Header from '../../components/header/Header'
-import Products from '../../components/products/Products'
 import Footer from '../../components/footer/Footer'
+import ScreenProducts from '../../components/screenProducts/ScreenProducts'
 
 export default function index(){
   return (
     <div>
         <Header/>
-        <Products/>
+        <ScreenProducts/>
         <Footer/>
     </div>
   )

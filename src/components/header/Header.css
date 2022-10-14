@@ -5,16 +5,16 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    position: fixed;
+    box-sizing: border-box;
 }
 .logo{
-    margin: 12px;
+    padding: 12px;
 }
 .logo h1{
     font-size: 65px
 }
 .menu{
-    margin: 5px;
+    padding: 5px;
 }
 .menu a{
     color: #fff;

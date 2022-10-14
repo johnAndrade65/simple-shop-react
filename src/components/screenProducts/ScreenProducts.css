@@ -1,32 +1,40 @@
+
 *{
     margin: 0;
     padding: 0;
 }
 .Products{
     width: 100vw;
-    height: auto;
-    margin: 0;
-    padding: 0;
     display: flex;
     justify-content: center;
-    align-items: top;
+    align-items: center;
     flex-direction: column;
-    background-color: rgb(19, 19, 19);
+    padding-top: 8%;
+    background-color: #2c2c2c;
+}
+.textProducts{
+    width: 100vw;
+    height: 100px;
+}
+.textProducts h2{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 50px;
 }
 .container-text{
     height: 65px;
     width: 100vw;
     box-sizing: border-box;
-    background-color: rgb(19, 19, 19);
 }
 .text{
+    padding-top: 25px;
     text-align: center;
     font-size: 60px;
 }
 .container{
     width: 95vw;
     height: auto;
-    background-color: rgb(34, 34, 34);
+    background-color: #2c2c2c;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -61,4 +69,18 @@
     font-size: 15px;
     padding-bottom: 15px;
     text-align: center;
+}
+.viewmore{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 65px;
+}
+.button{
+    width: 250px;
+    height: 65px;
+    background-color: rgb(19, 19, 19);
+}
+.a{
+    color: #fff;
 }
